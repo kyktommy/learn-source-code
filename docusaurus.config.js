@@ -9,7 +9,7 @@ const config = {
   title: "Learn source code",
   tagline: "read source code for fun?",
   url: "https://kyktommy.github.io/learn-source-code",
-  baseUrl: "/",
+  baseUrl: "/learn-source-code/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
